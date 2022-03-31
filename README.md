@@ -1,6 +1,4 @@
-Yo its ya boi **Mossy Moss**
-- I’m interested in complicated games and music, lots of music
-- Currently learning Javascript, coz money
+I'm in it for that cheese, nitty green
 
 ![Stay Spooky](https://github.com/Code-Moss/Code-Moss/blob/main/Solomon.gif)
 
